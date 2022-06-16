@@ -1,0 +1,34 @@
+.HomePage {
+  height: 100vh;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+.Navbar_contact {
+  padding: 15px;
+  justify-content: end;
+  text-align: end;
+}
+.HomePage_Layout {
+  padding: 10px;
+}
+.HomePage_Maincontent {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+}
+.Content_1 {
+  text-align: start;
+  justify-content: start;
+  vertical-align: bottom;
+}
+.bottom_button {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+.achievements {
+  padding: 25px;
+  text-align: start;
+  justify-content: center;
+}
