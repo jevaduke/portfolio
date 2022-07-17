@@ -39,15 +39,7 @@ const Home = () => {
                   </button>
                 </Link>
               </div>
-            </div>
-          </div>
-          <div className="Content_2">
-            <div className="imgelement">
-              <img src={hipng} alt="emoji" height="500px" width="500px" />
-            </div>
-          </div>
-        </div>
-        <div
+              <div
           className="achievements"
           style={{ height: "300px", width: "500px" }}
         >
@@ -96,6 +88,15 @@ const Home = () => {
             ></div>
           </div>
         </div>
+            </div>
+          </div>
+          <div className="Content_2">
+            <div className="imgelement">
+              <img src={hipng} alt="emoji" height="500px" width="500px" />
+            </div>
+          </div>
+        </div>
+        
       </div>
     </div>
   );
