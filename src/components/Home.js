@@ -18,7 +18,7 @@ const Home = () => {
         <div className="HomePage_Maincontent">
           <div className="Content_1">
             <div>
-              <h1>Jeva Vignesh</h1>
+              <h1>Jeva Stark</h1>
 
               <h3>Frontend Developer & UI Designer</h3>
               <br />
